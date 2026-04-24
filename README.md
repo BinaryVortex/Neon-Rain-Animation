@@ -1,10 +1,12 @@
 # Neon Rain Animation
 
+![Screenshot](./Screenshot%202024-07-09%20063732.png)
+
 Neon Rain Animation built using HTML, CSS and JavaScript.
 
 ## Overview
 
-A lightweight, visually striking neon rain animation that runs in the browser. The effect is created with CSS animations and JavaScript generates raindrops, trails and splashes. The project includes optional ambient sounds (rain and thunder) to enhance the experience.
+A lightweight, visually striking neon rain animation that runs in the browser. The effect is created with CSS animations and JavaScript generates raindrops, trails and splashes. The project include[...] 
 
 ## Features
 
@@ -40,7 +42,7 @@ python -m http.server 8000
 
 3. (Optional) Add audio files
 
-The HTML references `rain-sound.mp3` and `thunder-sound.mp3`. If those files are not present in the repository, either add your own audio files with those names to the repo root or remove the audio elements from `index.html`.
+The HTML references `rain-sound.mp3` and `thunder-sound.mp3`. If those files are not present in the repository, either add your own audio files with those names to the repo root or remove the audi[...]
 
 ## Customization
 
