@@ -2,8 +2,6 @@
 
 Neon Rain Animation built using HTML, CSS and JavaScript.
 
-![Neon Rain Screenshot](./Screenshot 2024-07-09 063732.png)
-
 ## Overview
 
 A lightweight, visually striking neon rain animation that runs in the browser. The effect is created with CSS animations and JavaScript generates raindrops, trails and splashes. The project includes optional ambient sounds (rain and thunder) to enhance the experience.
